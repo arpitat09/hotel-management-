@@ -1,30 +1,109 @@
-🏨 Hotel Management System
+# 🏨 Hotel Management System
 
-A simple Hotel Management System developed to manage hotel operations such as room booking, customer records, and billing. This project demonstrates the use of core programming concepts like classes, structures, and file handling to simulate real-world hotel management operations.
+### Manage • Book • Organize Hotel Operations
 
-📌 Features
+Hotel Management System is a full-stack web application designed to manage hotel bookings, customer details, and room information efficiently. The project demonstrates the integration of frontend technologies with a backend server and a relational database.
 
-🛏️ Room Booking System
-👤 Customer Information Management
-💳 Billing and Payment Handling
-📂 File Handling for Data Storage
-📊 Simple Menu-Based Interface
-🔄 Record Management for Hotel Staff
+---
 
-🛠️ Technologies Used
-C++
-Object-Oriented Programming (OOP)
-File Handling
-Structures and Classes
+## 🚀 Project Overview
 
-📂 Project Structure
-hotel-management/
+Managing hotel bookings manually can be inefficient and time-consuming.  
+This system provides a digital platform where hotel administrators can manage room bookings, customer data, and hotel services through a simple web interface.
+
+🎯 Goal:
+To build a practical full-stack application that demonstrates how frontend, backend, and database systems work together.
+
+---
+
+## ✨ Key Features
+
+- 🛏️ Room booking management
+- 👤 Customer information storage
+- 📋 Hotel room records
+- 🧾 Booking data management
+- 🌐 Web-based interface
+- ⚡ Backend server handling requests
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- npm
+
+---
+
+## 🧩 Project Structure
+
+Hotel-Management/
 │
-├── LNTBCP2.CPP        # Main source code
-├── index.html         # Basic frontend page
-├── screenshots        # Project output screenshots
-└── README.md
+├── index.html        # Main frontend page
+├── styles.css        # Styling for UI
+├── script.js         # Frontend logic
+├── server.js         # Backend server
+├── hotel.sql         # Database schema
+├── package.json      # Project dependencies
+├── response.json     # Sample data
+└── README.md         # Project documentation
 
-⚙️ How to Run the Project
-1️⃣ Clone the Repository
-```git clone https://github.com/arpitat09/hotel-management-.git```
+---
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+git clone https://github.com/arpitat09/hotel-management-.git
+
+2️⃣ Navigate to the project directory
+
+cd hotel-management-
+
+3️⃣ Install dependencies
+
+npm install
+
+4️⃣ Start the server
+
+node server.js
+
+5️⃣ Open the project in browser
+
+http://localhost:3000
+
+---
+
+## 📌 Future Enhancements
+
+- User authentication system
+- Online booking system
+- Admin dashboard
+- Payment gateway integration
+- Improved UI/UX design
+
+---
+
+## 👩‍💻 Author
+
+Arpita
+
+GitHub:  
+https://github.com/arpitat09
+
+---
+
+⭐ If you like this project, consider starring the repository!
